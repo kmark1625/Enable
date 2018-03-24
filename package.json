@@ -1,0 +1,19 @@
+{
+  "name": "capitalone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmark1625/Enable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmark1625/Enable/issues"
+  },
+  "homepage": "https://github.com/kmark1625/Enable#readme"
+}
