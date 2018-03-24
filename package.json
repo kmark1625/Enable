@@ -18,6 +18,7 @@
   "homepage": "https://github.com/kmark1625/Enable#readme",
   "dependencies": {
     "botbuilder": "^3.14.1",
+    "dotenv": "^5.0.1",
     "restify": "^7.0.0"
   }
 }

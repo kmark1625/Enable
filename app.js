@@ -1,9 +1,7 @@
 var restify = require('restify');
 var builder = require('botbuilder');
 
-// Set environment variables
-process.env['MicrosoftAppId'] = 'Testing1';
-process.env['MicrosoftAppPassword'] = 'Testing2';
+require('dotenv').config();
 
 // Setup Restify Server
 var server = restify.createServer();
